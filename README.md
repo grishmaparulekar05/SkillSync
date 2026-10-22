@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SkillSync AI — Intelligent Resume Screening & Interview Assistant
 
 **Aligning Skills. Empowering Careers.**
@@ -167,3 +168,6 @@ SkillSync AI is a prototype designed to assist recruiters, not replace human jud
 ## License
 
 No open-source license has been selected yet.
+=======
+# SkillSync
+>>>>>>> 94131a7b35a30343e5f170dfa36617c0b5de1543
